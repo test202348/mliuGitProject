@@ -1,0 +1,9 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 80FC-48A7
+
+ Directory of C:\Users\miran\Desktop\gitStudy
+
+2023-03-16  11:17 PM    <DIR>          ..
+2023-03-16  11:21 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               1 Dir(s)  29,765,824,512 bytes free
